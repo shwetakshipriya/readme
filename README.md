@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **Chitkara University**
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m a **Fullstack developer**
 
 - 👯I’m currently in **my 3rd year B.Tech(CSE) Student**
 
