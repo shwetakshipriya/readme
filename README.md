@@ -9,7 +9,7 @@
 
 - 🌱 I’m a **Fullstack developer**
 
-- 👯I’m currently in **my 3rd year B.Tech(CSE) Student**
+- 👯I’m currently in **my 4th year B.Tech(CSE) Student**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwetakshipriya?tab=repositories](https://github.com/shwetakshipriya?tab=repositories)
 
